@@ -3,7 +3,7 @@
 I am a fullstack developer working at Onepoint, 5th year student at Epitech.
 
 - 👀 I'm interested in web development
-- 🚀 I'm currently working on a microservice actix-web web app
+- 🚀 I'm currently working on a microservice actix-web app
 - 🌱 I'm currently learning Swift for ARKit development
 
 ## Languages & Frameworks
