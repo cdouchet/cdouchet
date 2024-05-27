@@ -4,7 +4,7 @@ I am a fullstack developer working at Onepoint, 5th year student at Epitech.
 
 - 👀 I'm interested in mobile development
 - 🚀 I'm currently working on a rust microservice app using Actix-Web
-- 🌱 I'm currently learning Swift for ARKit development
+- 🌱 I'm currently learning Axum and Warp web frameworks
 
 ## Languages & Frameworks
 
