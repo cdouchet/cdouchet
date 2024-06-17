@@ -1,6 +1,6 @@
 ## Hi there, I am Cyril 👋
 
-I am a fullstack developer working at Onepoint, 5th year student at Epitech.
+I am a fullstack developer working as a mobile developer, trained at Epitech.
 
 - 👀 I'm interested in mobile development
 - 🚀 I'm currently working on a rust microservice app using Actix-Web
